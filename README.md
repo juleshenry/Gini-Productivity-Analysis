@@ -2,7 +2,7 @@
 
 This Python/Pandas program explores the relationship between Gini coefficient, GDP per capita, GDP per employee, and GDP per hours worked.
 
-![Gini Coefficient](https://imgur.com/iZWtfHFg)
+![Gini Coefficient](https://www.laits.utexas.edu/lawdem/unit03/reading2/Gini_definition.jpg)
 
 ## Prerequisites
 What things you need to install the software and how to install them:
