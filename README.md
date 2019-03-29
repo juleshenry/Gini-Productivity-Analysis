@@ -21,5 +21,6 @@ Rodrigo Colorado Ojeda - Economics Advisor -
 This project is licensed under Academic Free License v3.0
 
 ## Acknowledgments
-Coffee
-https://www.laits.utexas.edu/lawdem/unit03/reading2/Gini_definition.html
+-Coffee
+
+-https://www.laits.utexas.edu/lawdem/unit03/reading2/Gini_definition.html
