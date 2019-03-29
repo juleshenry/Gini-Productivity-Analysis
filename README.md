@@ -9,11 +9,11 @@ What things you need to install the software and how to install them:
 
 Python, Pandas, & Seaborn.
 
-realpython.com/installing-python
+[Python](realpython.com/installing-python)
 
-pandas.pydata.org/pandas-docs/stable/install.html
+[Pandas](pandas.pydata.org/pandas-docs/stable/install.html)
 
-seaborn.pydata.org/installing.html
+[Seaborn](seaborn.pydata.org/installing.html)
 
 ## Installation
 Install Python, Pandas, and Seaborn with standard install.
