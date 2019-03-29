@@ -7,13 +7,7 @@ This Python/Pandas program explores the relationship between Gini coefficient, G
 ## Prerequisites
 What things you need to install the software and how to install them:
 
-Python, Pandas, & Seaborn.
-
-[Python](realpython.com/installing-python)
-
-[Pandas](pandas.pydata.org/pandas-docs/stable/install.html)
-
-[Seaborn](seaborn.pydata.org/installing.html)
+[Python](realpython.com/installing-python), [Pandas](pandas.pydata.org/pandas-docs/stable/install.html) & [Seaborn](seaborn.pydata.org/installing.html).
 
 ## Installation
 Install Python, Pandas, and Seaborn with standard install.
