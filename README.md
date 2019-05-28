@@ -29,7 +29,7 @@ Pearson Correlation between GDP per Employee and Gini coefficient (economic ineq
 
 ('Iceland', -0.3333970573179649) ('Czech Republic', -0.25562442271431474) ('Ireland', -0.10246651242626467)
 
-('South Korea', -0.08210136676262306) ('Slovak Republic', -0.03528601860896927) ('Russia', 0.04867146573212773)
+('Korea', -0.08210136676262306) ('Slovak Republic', -0.03528601860896927) ('Russia', 0.04867146573212773)
 
 ('Hungary', 0.1067201262573162) ('Latvia', 0.21158073771738234) ('Poland', 0.35443398131310283)
 
@@ -42,6 +42,7 @@ Pearson Correlation between GDP per Employee and Gini coefficient (economic ineq
 ('United States', 0.7140812935161951) ('Germany', 0.716549994668619) ('Canada', 0.7484613379331699)
 
 ('Sweden', 0.8310600293532839) ('Denmark', 0.9334025902947312) ('Spain', 0.9661651456944137)
+
 Average correlation: -0.017943261917238187
 
 ## Prerequisites
